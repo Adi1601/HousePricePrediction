@@ -1,0 +1,1 @@
+#House_Price_Predictioncd 4.House_price Simple Ml Mini Project that uses Regression to Predict house prices based on house features such as Living Space, Land space, Number of bedrooms, Number of Bathrooms, Zipcode, etc.
